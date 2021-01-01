@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.kh.function.run.java.java&apos; to &apos;Java.java&apos;&#x0D;&#x0A;- Original project: &apos;03_Exercises&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.function.run.java.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kh.function.run.Java.java&apos;" description="Rename compilation unit &apos;java.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.kh.function.run{java.java" name="Java.java" references="false" stamp="1607486764692" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+package student;
+
+public class StudentTest {
+
+	public static void main(String[] args) {
+
+//	 (1) 학생 객체를 생성
+		Student stdt = new Student();
+//	 (2) 학생 학번을 적절히 지정
+		System.out.println("학번 = " );
+		stdt.setStdtIDNum(20160085);
+//	 (3) 학생 객체의 학번을 조회하여 출력		
+		System.out.println(stdt.getStdtIDNum());
+
+	}
+
+}

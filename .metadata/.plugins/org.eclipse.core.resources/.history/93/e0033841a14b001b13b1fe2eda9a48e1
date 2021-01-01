@@ -1,0 +1,27 @@
+package student;
+
+public class Student {
+
+	private int stdtIDNum;
+
+	public Student() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Student(int stdtIDNum) {
+		super();
+		this.stdtIDNum = stdtIDNum;
+	}
+
+	// 학번 조회
+	public int getStdtIDNum() {
+		return stdtIDNum;
+	}
+
+//  학번 지정
+	public void setStdtIDNum(int stdtIDNum) {
+		this.stdtIDNum = stdtIDNum;
+	}
+
+}
